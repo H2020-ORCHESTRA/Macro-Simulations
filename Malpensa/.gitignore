@@ -1,0 +1,8 @@
+__pycache__
+lib/__pycache__
+Model/Resources/Backup/TrainMalpensa.ang.old
+Model/Resources/Backup/TrainMalpensa.sang
+Model/Resources/Scripts/__pycache__
+Model/Resources/Outputs/TrainMalpensa.sqlite
+Model/TrainMalpensa.ang.lck
+AAPI.py

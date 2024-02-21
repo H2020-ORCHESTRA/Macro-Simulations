@@ -1,0 +1,28 @@
+Vehicle Record
+
+File: C:\ROSAS\04-Projects\01-Ongoing-Projects\TR-045_H2020\TR21_045_381_112180_H2020_ORCHESTRA - Multimodal Transport Improving\Workspace\WP5\Simulation\aimsun\Milano\Test_Milano\train_model\TrainMalpensa\Model\TrainMalpensa.ang
+Comment:
+Date:     mar. août 23 14:44:45 2022
+
+VehNr: Vehicle ID
+LVeh: ID of the next vehicle downstream
+Type: Vehicle Type ID
+VehTypeName: Vehicle Type Name
+Length: Length [m]
+t: Simulation Time [s]
+a: Acceleration [m/s^2] during the simulation step
+v: Speed [m/s] at the end of the simulation step
+DesLn: Desired Lane (by Direction decision)
+Grad: Gradient [%] of the current link
+ToD: Simulation Time as Time of Day [hh:mm:ss]
+DistX: Total Distance Traveled in the Network [m]
+WorldX: World coordinate x (vehicle front end at the end of the simulation step)
+WorldY: World coordinate y (vehicle front end at the end of the simulation step)
+WorldZ: World coordinate z (vehicle front end at the end of the simulation step)
+RWorldX: World coordinate x (vehicle rear end at the end of the time step)
+RWorldY: World coordinate y (vehicle rear end at the end of the time step)
+RWorldZ: World coordinate z (vehicle rear end at the end of the time step)
+x: Distance from the start position of the current section or turn the vehicle is in to the front part of the vehicle [m] at the end of the simultion step
+y: Lateral position relative to middle of lane (0.5) at the end of the simulation step
+
+       VehNr;        LVeh;        Type; VehTypeName;      Length;           t;           a;           v;       DesLn;        Grad;         ToD;       DistX;      WorldX;      WorldY;      WorldZ;     RWorldX;     RWorldY;     RWorldZ;           x;           y;
